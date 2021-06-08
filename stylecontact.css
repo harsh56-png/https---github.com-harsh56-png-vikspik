@@ -93,8 +93,8 @@ p{
 
 @media screen and (max-width: 600px){
     .cstyle{
-        width: 200px;
-        height: 250px;
+        width: 100%;
+        height: 100vh;
     }
 
     h2{
